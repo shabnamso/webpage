@@ -1,96 +1,11 @@
-.mstheme
-{
-	separator-image: url(ruleani.gif);
-	list-image-1: url(wavbul1a.gif);
-	list-image-2: url(wavbul2a.gif);
-	list-image-3: url(wavbul3a.gif);
-	nav-banner-image: url(wavbanna.gif);
-	navbutton-horiz-normal: url(wavnavha.gif);
-	navbutton-horiz-hovered: url(wavnavhh.gif);
-	navbutton-horiz-pushed: url(wavnavhp.gif);
-	navbutton-vert-normal: url(wavnavva.gif);
-	navbutton-vert-hovered: url(wavnavvh.gif);
-	navbutton-vert-pushed: url(wavnavvp.gif);
-	navbutton-home-normal: url(wavhomea.gif);
-	navbutton-home-hovered: url(wavhomeh.gif);
-	navbutton-home-pushed: url(wavhomea.gif);
-	navbutton-next-normal: url(wavnexta.gif);
-	navbutton-next-hovered: url(wavnexth.gif);
-	navbutton-next-pushed: url(wavnexta.gif);
-	navbutton-prev-normal: url(wavpreva.gif);
-	navbutton-prev-hovered: url(wavprevh.gif);
-	navbutton-prev-pushed: url(wavpreva.gif);
-	navbutton-up-normal: url(wavupa.gif);
-	navbutton-up-hovered: url(wavuph.gif);
-	navbutton-up-pushed: url(wavupa.gif);
-}
-.mstheme-bannertxt
-{
-	font-family: Verdana,Arial,Helvetica;
-	color: rgb(255, 255, 255);
-	font-size: 5;
-	font-style: normal;
-	font-weight: normal;
-}
-.mstheme-horiz-navtxt
-{
-	font-family: arial,helvetica;
-	color: rgb(0, 0, 0);
-	font-size: 2;
-	font-style: normal;
-	font-weight: normal;
-}
-.mstheme-vert-navtxt
-{
-	font-family: arial,helvetica;
-	color: rgb(255, 255, 255);
-	font-size: 3;
-	font-style: normal;
-	font-weight: normal;
-	text-align: center;
-	vertical-align: middle;
-}
-.mstheme-navtxthome
-{
-	font-family: arial,helvetica;
-	color: rgb(0, 0, 0);
-	font-size: 1;
-	font-style: normal;
-	font-weight: normal;
-}
-.mstheme-navtxtnext
-{
-	font-family: arial,helvetica;
-	color: rgb(0, 0, 0);
-	font-size: 1;
-	font-style: normal;
-	font-weight: normal;
-}
-.mstheme-navtxtprev
-{
-	font-family: arial,helvetica;
-	color: rgb(0, 0, 0);
-	font-size: 1;
-	font-style: normal;
-	font-weight: normal;
-}
-.mstheme-navtxtup
-{
-	font-family: arial,helvetica;
-	color: rgb(0, 0, 0);
-	font-size: 1;
-	font-style: normal;
-	font-weight: normal;
-}
-ul
-{
-	list-style-image: url(wavbul1a.gif);
-}
-ul ul
-{
-	list-style-image: url(wavbul2a.gif);
-}
-ul ul ul
-{
-	list-style-image: url(wavbul3a.gif);
-}
+vti_encoding:SR|utf8-nl
+vti_author:SR|Stanford\\S
+vti_modifiedby:SR|LAPTOP\\B
+vti_timelastmodified:TR|16 Jan 2016 23:29:06 -0000
+vti_timecreated:TR|16 Jan 2016 23:29:05 -0000
+vti_extenderversion:SR|6.0.2.8161
+vti_backlinkinfo:VX|
+vti_cacheddtm:TX|16 Jan 2016 23:29:06 -0000
+vti_filesize:IR|2211
+vti_cachedlinkinfo:VX|S|ruleani.gif S|wavbul1a.gif S|wavbul2a.gif S|wavbul3a.gif S|wavbanna.gif S|wavnavha.gif S|wavnavhh.gif S|wavnavhp.gif S|wavnavva.gif S|wavnavvh.gif S|wavnavvp.gif S|wavhomea.gif S|wavhomeh.gif S|wavhomea.gif S|wavnexta.gif S|wavnexth.gif S|wavnexta.gif S|wavpreva.gif S|wavprevh.gif S|wavpreva.gif S|wavupa.gif S|wavuph.gif S|wavupa.gif S|wavbul1a.gif S|wavbul2a.gif S|wavbul3a.gif
+vti_cachedsvcrellinks:VX|FSUS|_themes/copy-of-waves/ruleani.gif FSUS|_themes/copy-of-waves/wavbul1a.gif FSUS|_themes/copy-of-waves/wavbul2a.gif FSUS|_themes/copy-of-waves/wavbul3a.gif FSUS|_themes/copy-of-waves/wavbanna.gif FSUS|_themes/copy-of-waves/wavnavha.gif FSUS|_themes/copy-of-waves/wavnavhh.gif FSUS|_themes/copy-of-waves/wavnavhp.gif FSUS|_themes/copy-of-waves/wavnavva.gif FSUS|_themes/copy-of-waves/wavnavvh.gif FSUS|_themes/copy-of-waves/wavnavvp.gif FSUS|_themes/copy-of-waves/wavhomea.gif FSUS|_themes/copy-of-waves/wavhomeh.gif FSUS|_themes/copy-of-waves/wavhomea.gif FSUS|_themes/copy-of-waves/wavnexta.gif FSUS|_themes/copy-of-waves/wavnexth.gif FSUS|_themes/copy-of-waves/wavnexta.gif FSUS|_themes/copy-of-waves/wavpreva.gif FSUS|_themes/copy-of-waves/wavprevh.gif FSUS|_themes/copy-of-waves/wavpreva.gif FSUS|_themes/copy-of-waves/wavupa.gif FSUS|_themes/copy-of-waves/wavuph.gif FSUS|_themes/copy-of-waves/wavupa.gif FSUS|_themes/copy-of-waves/wavbul1a.gif FSUS|_themes/copy-of-waves/wavbul2a.gif FSUS|_themes/copy-of-waves/wavbul3a.gif
